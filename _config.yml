@@ -1,0 +1,14 @@
+layout_spectrum: 0.07649254
+typography_spectrum: 0.7472015
+color:
+  saturation: 0.866138
+  brandStrength: 0.1856343
+  lightness: 0.6319963
+  brandColors:
+    - '#744615'
+    - '#E7EDEB'
+    - '#401801'
+    - '#B09480'
+    - '#025471'
+  rhythmicContrast: 0.6114739
+name: Verily
