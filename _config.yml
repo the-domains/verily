@@ -1,5 +1,7 @@
-favicon: null
-name: Verily
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -19,7 +21,7 @@ collections:
 purpose: []
 color:
   saturation: 0.866138
-  brandStrength: 0.556391
+  brandStrength: 1
   lightness: 0.6319963
   brandColors:
     - '#FFFFFD'
@@ -34,7 +36,5 @@ analytics:
   twitter: null
   google: null
   facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+favicon: null
+name: Verily
