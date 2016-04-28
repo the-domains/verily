@@ -1,40 +1,40 @@
-name: Verily
 favicon: null
-layout_spectrum: 0.4674186
-typography_spectrum: 0.7472015
+name: Verily
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
+    permalink:
+      path: '/:title/'
+purpose: []
+color:
+  saturation: 0.866138
+  brandStrength: 0.556391
+  lightness: 0.6319963
+  brandColors:
+    - '#FFFFFD'
+    - '#536068'
+    - '#CABFAB'
+    - '#1E170D'
+    - '#D34225'
+  rhythmicContrast: 0.6114739
+typography_spectrum: 0.7472015
+layout_spectrum: 0.6077694
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#744615'
-    - '#E7EDEB'
-    - '#401801'
-    - '#B09480'
-    - '#025471'
-  brandStrength: 0.1856343
-  lightness: 0.6319963
-  saturation: 0.866138
-  rhythmicContrast: 0.6114739
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
