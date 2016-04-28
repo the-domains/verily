@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Verily]]></title>
+        <description><![CDATA[Verily]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Apr 2016 15:31:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Morgan 321 built 1979]]></title>
+            <description><![CDATA[<p>I have the boat. I need some water. It's on stands and a few boats are ahead of mine. Looking to be in a slip by Cinco de Mayo.</p>]]></description>
+            <link>undefinedmorgan-321-built-1979/index.html</link>
+            <guid isPermaLink="false">3e781270-b5b1-46fa-9e1b-04436ce98322</guid>
+            <pubDate>Thu, 28 Apr 2016 15:31:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
