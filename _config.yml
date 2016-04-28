@@ -1,3 +1,7 @@
+name: Verily
+favicon: null
+layout_spectrum: 0.4674186
+typography_spectrum: 0.7472015
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.7472015
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.866138
-  brandStrength: 0.1856343
-  rhythmicContrast: 0.6114739
   brandColors:
     - '#744615'
     - '#E7EDEB'
     - '#401801'
     - '#B09480'
     - '#025471'
+  brandStrength: 0.1856343
   lightness: 0.6319963
-layout_spectrum: 0.4674186
-name: Verily
+  saturation: 0.866138
+  rhythmicContrast: 0.6114739
+purpose: []
