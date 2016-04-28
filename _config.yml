@@ -1,14 +1,26 @@
-layout_spectrum: 0.07649254
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.7472015
 color:
   saturation: 0.866138
   brandStrength: 0.1856343
-  lightness: 0.6319963
+  rhythmicContrast: 0.6114739
   brandColors:
     - '#744615'
     - '#E7EDEB'
     - '#401801'
     - '#B09480'
     - '#025471'
-  rhythmicContrast: 0.6114739
+  lightness: 0.6319963
+layout_spectrum: 0.4674186
 name: Verily
